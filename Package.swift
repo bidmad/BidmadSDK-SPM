@@ -29,18 +29,18 @@ let package = Package(
     ),
     .binaryTarget(
       name: "BidmadSDK",
-      url: "https://github.com/bidmad/BidmadSDK-SPM/releases/download/7.2.0-dev.1/BidmadSDK.xcframework.zip",
-      checksum: "77018a85cc8717144eebd728387d72554a5e6cddc3b5a2e616defd4d29ab1461"
+      url: "https://github.com/bidmad/BidmadSDK-SPM/releases/download/7.2.0-dev.2/BidmadSDK.xcframework.zip",
+      checksum: "1abf9eb63a34c0c57d5d7e42a37851ee7bfdabf0aec17c7f8f3ce487704fdada"
     ),
     .binaryTarget(
       name: "OpenBiddingHelper",
-      url: "https://github.com/bidmad/BidmadSDK-SPM/releases/download/7.2.0-dev.1/OpenBiddingHelper.xcframework.zip",
-      checksum: "df500a85d07a79171a0e117eb922861e6f0f1c977f9d6fd89bef3d2ba096d94c"
+      url: "https://github.com/bidmad/BidmadSDK-SPM/releases/download/7.2.0-dev.2/OpenBiddingHelper.xcframework.zip",
+      checksum: "dd1b5279eb0dd8e35a083f63b4a74a583d39c5cf41eb08856b527e5301823e97"
     ),
     .binaryTarget(
       name: "BidmadGoogleGDPRAdapter",
-      url: "https://github.com/bidmad/BidmadSDK-SPM/releases/download/7.2.0-dev.1/BidmadGoogleGDPRAdapter.xcframework.zip",
-      checksum: "727246873f4180097459c1ddbff2ddebcebda19b539f0a78a19a8b4a05b7e9cb"
+      url: "https://github.com/bidmad/BidmadSDK-SPM/releases/download/7.2.0-dev.2/BidmadGoogleGDPRAdapter.xcframework.zip",
+      checksum: "e21d1db50c0a6cd61cbbbdc1a0eb882454e276286dfe14bf2b42493d37d1ec0c"
     ),
   ]
 )
