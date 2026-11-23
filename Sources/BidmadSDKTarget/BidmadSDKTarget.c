@@ -1,1 +1,1 @@
-// Wrapper target for BidmadSDK (dynamic framework); no code.
+// Wrapper target for BidmadSDK: declares its dependencies; no code.

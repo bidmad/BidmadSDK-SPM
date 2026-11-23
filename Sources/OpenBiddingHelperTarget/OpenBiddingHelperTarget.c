@@ -1,1 +1,1 @@
-// Wrapper target for OpenBiddingHelper (dynamic framework); no code.
+// Wrapper target for OpenBiddingHelper: declares its dependencies; no code.
